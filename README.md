@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Teja! 👋
+# Hey there 👋
 
-**Senior Curam/Merative SPM Developer &nbsp;|&nbsp; Full-Stack React Developer &nbsp;|&nbsp; Holly Springs, NC 📍**
+**Senior Curam/Merative SPM Developer &nbsp;|&nbsp; Full-Stack React Developer &nbsp;**
 
 *Passionate about building citizen engagement systems that make government services accessible.*
 
@@ -73,7 +73,7 @@ I specialize in **IBM Curam/Merative Social Program Management** — from comple
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=teja401&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" height="180" />
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=teja401&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=e6edf3" height="180" />
 
